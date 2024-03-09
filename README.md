@@ -28,7 +28,7 @@
 
   ## Live
   Live: https://still-mesa-78038-f7c8f1544ba9.herokuapp.com
-  Known issue with Safari currently where some stylings not applying correctly to "See the discussion" button it does work as expected in Chrome & Firefox.
+  Known issue with Safari currently where some stylings are not applying correctly to the "See the discussion" button. It does work as expected in Chrome & Firefox.
   
   ## Repository
   Repo: https://github.com/xdatalinq/pizza-hunt
